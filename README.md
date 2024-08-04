@@ -11,7 +11,7 @@ This project is a Sentiment Analysis Tool built using BERT (Bidirectional Encode
 - **State-of-the-art NLP**: Uses BERT for high accuracy in sentiment classification.
 - **Custom Dataset**: Trained on a custom dataset for sentiment analysis.
 - **Web Interface**: Provides an easy-to-use web interface for text sentiment prediction.
-- **Deployable**: Can be deployed on platforms like Heroku for public access.
+
 
 ## Project Structure
 
