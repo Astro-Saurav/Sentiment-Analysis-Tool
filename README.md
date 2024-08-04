@@ -38,7 +38,6 @@ my_sentiment_app/
 - Python 3.7 or higher
 - Pip (Python package installer)
 - Git
-- Heroku CLI (for deployment)
 
 ### Installation
 
