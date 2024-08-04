@@ -10,7 +10,7 @@ This project is a Sentiment Analysis Tool built using BERT (Bidirectional Encode
 - **Deployable**: Can be deployed on platforms like Heroku for public access.
 
 ## Project Structure
-**
+
 my_sentiment_app/
 ├── app.py
 ├── train_model.py
@@ -23,4 +23,4 @@ my_sentiment_app/
 ├── requirements.txt
 ├── Procfile
 └── templates/
-└── index.html **
+└── index.html 
