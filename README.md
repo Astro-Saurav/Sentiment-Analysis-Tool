@@ -43,29 +43,25 @@ my_sentiment_app/
 ### Installation
 
 1. Clone the repository:
-   `git clone https://github.com/Astro-Saurav/Sentiment-Analysis-Tool`
-   `cd Sentiment-Analysis-Tool`
+   ```git clone https://github.com/Astro-Saurav/Sentiment-Analysis-Tool 
+       cd Sentiment-Analysis-Tool
+   ```
 
-2. Create and activate a virtual environment (optional but recommended):
+3. Create and activate a virtual environment (optional but recommended):
    `python -m venv venv`
    `source venv/bin/activate`  # On Windows use `venv\Scripts\activate`
 
-3. Install the required packages:
+4. Install the required packages:
    `pip install -r requirements.txt`
 
-4. Train the model:
+5. Train the model:
    Ensure your `sentiment_data.csv` file is in the project directory. Then, run:
    `python train_model.py`
    This script will train the BERT model and save it in the `bert_model` directory.
 
-5. Run the Flask app:
+6. Run the Flask app:
    `python app.py`
    Open your browser and go to `http://127.0.0.1:5000/` to access the sentiment analysis tool.
-
-
-## Usage
-
-Once deployed, you can access the web interface and input any text to get its sentiment prediction.
 
 ## Contributing
 
