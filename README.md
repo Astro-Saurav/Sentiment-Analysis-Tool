@@ -11,16 +11,18 @@ This project is a Sentiment Analysis Tool built using BERT (Bidirectional Encode
 
 ## Project Structure
 
+```plaintext
 my_sentiment_app/
 ├── app.py
 ├── train_model.py
 ├── sentiment_data.csv
 ├── bert_model/
-│ ├── config.json
-│ ├── pytorch_model.bin
-│ ├── tokenizer_config.json
-│ ├── vocab.txt
+│   ├── config.json
+│   ├── pytorch_model.bin
+│   ├── tokenizer_config.json
+│   ├── vocab.txt
 ├── requirements.txt
 ├── Procfile
 └── templates/
-└── index.html 
+    └── index.html
+```
